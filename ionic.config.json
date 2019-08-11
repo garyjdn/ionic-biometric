@@ -1,5 +1,7 @@
 {
   "name": "ionic-biometric",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
